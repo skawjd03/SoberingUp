@@ -1,10 +1,10 @@
-package com.sbSample.sb;
+package com.taetae.blog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootNum11ApplicationTests {
+class StudyBlogApplicationTests {
 
 	@Test
 	void contextLoads() {
