@@ -11,7 +11,7 @@ public class BlogControllerTest {
 			String returnTag = "<div style='text-align:center;'>";
 			returnTag += "<div style='width:500px; height:500px; display:inline-block; background-color:yellow;'>";
 			returnTag += "<h1 style='text-align:center;'>Test Controller</h1>";
-			returnTag += "<h2 style='text-align:center;'>HELLO FIRST SPRING BOOT zz</h2>";
+			returnTag += "<h2 style='text-align:center;'>HELLO FIRST SPRING BOOT zzz</h2>";
 			returnTag += "</div></div>";
 			return returnTag;
 		}
